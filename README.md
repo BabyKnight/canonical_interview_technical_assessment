@@ -1,5 +1,9 @@
 # canonical_interview_technical_assessment
-This is a record of my solution of the technical assessment during Canonical interview of Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)
+
+This is a record of my solution to the technical assessment during the Canonical interview for Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)
+
+I submitted the application on 4/15/2026 and went through the process of Assessment -> Early stage -> Late stage; it ended on 7/7/2026.
+
 
 ## INSTRUCTIONS
 
